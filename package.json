@@ -3,11 +3,17 @@
   "name": "com.unitools.build.versioning.semantic",
   "version": "0.0.0",
   "unity": "2019.1",
+  "description": "Part of the Customizable Build Pipeline tool to set semantic version (semver) for the project",
   "keywords": [
-    "unity"
+    "semver",
+    "build",
+    "unity3d",
+    "ci-cd",
+    "build-tool",
+    "ci-cd-pipeline",
+    "unity-tool"
   ],
   "category": "Unity",
-  "description": "TODO",
   "dependencies": {
     "com.unitools.build": "0.0.0"
   }
