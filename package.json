@@ -15,6 +15,7 @@
   ],
   "category": "Unity",
   "dependencies": {
-    "com.unitools.build": "0.0.0"
-  }
+    "com.unitools.build": "0.0.1-preview"
+  },
+  "type": "library"
 }
