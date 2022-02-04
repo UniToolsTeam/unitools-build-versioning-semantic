@@ -1,3 +1,5 @@
+# This tool is legacy and not supported anymore, please use [UniTools Build](https://github.com/UniToolsTeam/unitools-build)
+
 # UniTools Build Versioning Semantic
 Build steps to set a project version based on the [SemVer](https://semver.org) approach.
 
